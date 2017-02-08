@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/Squidly271/docker.categorize/master/plugins/docker.categorize.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/coppit/unraid-snmp/master/snmp.plg</PluginURL>
+<PluginAuthor>David Coppit</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System Plugins:</Category>
+<Name>SNMP</Name>
+<Description>
+SNMP is a standard way to get raw data from devices, for monitoring purposes. With this package, you can hook your UNRAID server up to a monitor, and track things like network usage, cpu activity, even user logins.
+</Description>
+<Support>https://lime-technology.com/forum/index.php?topic=41019.0</Support>
+<Icon>https://github.com/coppit/unraid-snmp/raw/master/snmp.png</Icon>
+</Containers>
