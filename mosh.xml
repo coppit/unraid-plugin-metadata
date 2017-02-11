@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/coppit/unraid-mosh/master/mosh.plg</PluginURL>
+<PluginAuthor>David Coppit</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>Mosh</Name>
+<Description>
+Installs Mosh, the mobile shell. Mosh is an improved SSH, with better responsiveness and reliability. You can sleep your laptop for a week, come back, and your connection will still be there.
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=41664.0</Support>
+<Icon>https://raw.githubusercontent.com/coppit/unraid-mosh/master/mosh.png</Icon>
+</Containers>
