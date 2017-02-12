@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>https://raw.githubusercontent.com/Squidly271/docker.categorize/master/plugins/docker.categorize.plg</PluginURL>
 <PluginURL>https://raw.githubusercontent.com/coppit/unraid-snmp/master/snmp.plg</PluginURL>
 <PluginAuthor>David Coppit</PluginAuthor>
 <Beta>False</Beta>
